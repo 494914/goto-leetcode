@@ -1,3 +1,3 @@
-module goto-leetcode
+module ark
 
 go 1.15
